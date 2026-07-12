@@ -47,9 +47,10 @@ export const skillGroups: readonly SkillGroup[] = [
     skills: [
       { name: "Git" },
       { name: "GitHub" },
-      { name: "VS Code" },
+      { name: "VSCode" },
       { name: "Figma" },
       { name: "Vercel" },
+      { name: "Render" },
       { name: "Claude Code" },
       { name: "OpenAI Codex" },
     ],
