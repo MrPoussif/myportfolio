@@ -113,6 +113,11 @@
     "ariaRepoBackend": "Code backend de",
     "ariaRepo": "Code source de",
     "items": {
+      "kasaly": {
+        "title": "Kasaly",
+        "description": "Hub domestique partagé pour couples, familles ou colocs · courses, tâches, notes, agenda et liens en temps réel · auth Supabase + RLS par foyer · fullstack solo",
+        "modalDescription": "Kasaly est une application web fullstack de gestion du foyer, pensée comme un lieu unique pour réduire la charge mentale du quotidien à plusieurs : couples, familles, colocations. Plutôt que de jongler entre une appli de courses, un agenda partagé et un fil de discussion pour \"qui a pensé à…\", Kasaly centralise tout dans un seul espace partagé par foyer.\n\nChaque foyer est un espace isolé : les membres s'invitent par lien, et toutes les données (courses, tâches, notes, agenda, liens utiles) sont scopées au foyer via Row Level Security côté Supabase — un membre d'un foyer ne peut ni voir ni modifier les données d'un autre foyer, y compris en cas de tentative d'accès direct à l'API."
+      },
       "alterago": {
         "title": "AlterAgo",
         "role": "Lead technique · équipe de 3",

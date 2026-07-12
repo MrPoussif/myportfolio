@@ -113,6 +113,11 @@
     "ariaRepoBackend": "Backend source code of",
     "ariaRepo": "Source code of",
     "items": {
+      "kasaly": {
+        "title": "Kasaly",
+        "description": "Shared household hub for couples, families or roommates · shopping list, tasks, notes, agenda and links in real time · Supabase auth + per-household RLS · fullstack solo",
+        "modalDescription": "Kasaly is a fullstack household management web app built as a single shared space to cut down the daily mental load of running a household with other people — couples, families, roommates. Instead of juggling a separate shopping-list app, a shared calendar, and a \"did anyone remember to…\" group chat, Kasaly centralizes all of it in one space per household.\n\nEach household is an isolated space: members join via an invite link, and every piece of data (shopping list, tasks, notes, agenda, useful links) is scoped to the household through Supabase Row Level Security — a member of one household can't read or write another household's data, including via a direct API call."
+      },
       "alterago": {
         "title": "AlterAgo",
         "role": "Tech lead · team of 3",

@@ -11,6 +11,40 @@ import type { Project } from "@/types";
 
 export const projects: readonly Project[] = [
   {
+    slug: "kasaly",
+    status: "beta",
+    thumbnailIndex: 1,
+    aiLevel: "assisted",
+    title: "Kasaly",
+    demoUrl: "https://kasaly.vercel.app",
+    repoUrl: "https://github.com/matchls/casahub",
+    description:
+      "Application web fullstack de gestion de foyer partagé pour couples, familles ou colocations : liste de courses, tâches, notes, agenda et liens utiles centralisés par foyer, avec authentification Supabase et isolation des données par foyer via Row Level Security.",
+    stack: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Supabase",
+      "PostgreSQL",
+      "Row Level Security",
+      "GitHub Actions",
+      "Vercel",
+    ],
+    screenshots: [
+      "/images/kasaly/screen-1.png",
+      "/images/kasaly/screen-2.png",
+      "/images/kasaly/screen-3.png",
+      "/images/kasaly/screen-4.png",
+      "/images/kasaly/screen-5.png",
+      "/images/kasaly/screen-6.png",
+      "/images/kasaly/screen-7.png",
+      "/images/kasaly/screen-8.png",
+      "/images/kasaly/screen-9.png",
+      "/images/kasaly/screen-10.png",
+    ],
+  },
+  {
     slug: "jobjourney",
     status: "beta",
     aiLevel: "assisted",
