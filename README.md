@@ -1,4 +1,4 @@
-# Portfolio — Mathieu Chalès
+# Portfolio — Mathieu Châles
 
 Personal portfolio for Mathieu Chalès, a junior fullstack developer based in Paris. Built as a single-page site with French and English versions, sharp SEO, a working contact form, and a dark mode that actually respects your system preference.
 
