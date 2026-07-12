@@ -40,8 +40,6 @@ export const projects: readonly Project[] = [
       "/images/kasaly/screen-6.png",
       "/images/kasaly/screen-7.png",
       "/images/kasaly/screen-8.png",
-      "/images/kasaly/screen-9.png",
-      "/images/kasaly/screen-10.png",
     ],
   },
   {
